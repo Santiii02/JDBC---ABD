@@ -1,7 +1,7 @@
 # JDBC - ABD
 Repositorio de GitHub para la asignatura Aplicaciones de Bases de Datos, Ingeniería Informática, UBU.
 <br><br>
-🟢 URL de GitHub: https://github.com/Santiii02/JDBC---ABD/
+🟢 URL de GitHub: https://github.com/Santiii02/JDBC---Aplicaciones-de-Bases-de-Datos/
 <br>
 
 ## _Participantes_
