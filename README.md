@@ -1,4 +1,4 @@
-# JDBC - ABD
+# Aplicaciones-Bases-de-Datos: Trabajo JDBC
 Repositorio de GitHub para la asignatura Aplicaciones de Bases de Datos, Ingeniería Informática, UBU.
 <br><br>
 Repositorio de GitHub para la asignatura Aplicaciones de Bases de Datos, Ingeniería Informática, UBU.
